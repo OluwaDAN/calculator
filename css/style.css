@@ -1,0 +1,86 @@
+.container{
+    border: solid 2px;
+    width: 213px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: rgba(96, 212, 197, 0.692);
+    margin: auto;
+    margin-top: 60px;
+}
+
+#show{
+    display: inline-block;
+    width: 200px;
+    height: 30px;
+    padding: 0 3px;
+    border-radius: 5px;
+    margin-top: 7px;
+    background-color: #524b4b;
+    color: #fff;
+    text-align: right;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#buttonkey{
+    display: inline-block;
+    width: 49px;
+    height: 30px;
+    margin-top: 12px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: orangered;
+    outline: none;
+    border-radius: 10px;
+}
+
+#buttonMat{
+    display: inline-block;
+    width: 49px;
+    height: 30px;
+    margin-top: 12px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgba(46, 43, 42, 0.842);
+    outline: none;
+    color: #fff;
+    border-radius: 10px;
+}
+
+#buttonjar{
+    display: inline-block;
+    width: 49px;
+    height: 30px;
+    margin-top: 12px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgba(46, 43, 42, 0.842);
+    outline: none;
+    color: #fff; 
+    border-radius: 10px;
+}
+
+#buttonsix{
+    display: inline-block;
+    width: 49px;
+    height: 30px;
+    margin-top: 12px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgba(46, 43, 42, 0.842);
+    outline: none;
+    color: #fff; 
+    border-radius: 10px;
+}
+
+#button1{
+    display: inline-block;
+    width: 49px;
+    height: 30px;
+    margin-top: 12px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgba(238, 16, 16, 0.842);
+    outline: none; 
+    border-radius: 10px;
+}
